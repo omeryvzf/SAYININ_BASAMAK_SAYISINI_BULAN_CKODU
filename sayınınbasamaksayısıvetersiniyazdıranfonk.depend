@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665948305 source:c:\users\omer\desktop\c&c++ programlama\sayýnýnbasamaksayýsývetersiniyazdýranfonk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
